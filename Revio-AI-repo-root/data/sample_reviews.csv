@@ -1,0 +1,46 @@
+review_id,review_text,rating,source,created_at
+REV-1001,"The delivery was very late, and customer support did not respond to my calls. Very disappointing experience.",1,Google,2026-11-01 09:15:00
+REV-1002,"Excellent service! The team was friendly and the product arrived ahead of schedule.",5,Google,2026-11-01 11:40:00
+REV-1003,"The invoice amount is wrong and I still have not received my refund.",2,Instagram,2026-11-02 14:05:00
+REV-1004,"Order 40 minute late tha aur support team ne call nahi uthaya. Bahut kharab experience tha.",1,Google,2026-11-02 18:20:00
+REV-1005,"The app crashes every time I try to log in. Please fix this bug.",2,Website,2026-11-03 08:30:00
+REV-1006,"बहुत अच्छा अनुभव था। टीम विनम्र थी और डिलीवरी समय पर हुई।",5,Google,2026-11-03 10:10:00
+REV-1007,"The product quality is poor and it stopped working after two days.",1,Google,2026-11-03 16:45:00
+REV-1008,"Support was quick and the issue was resolved within minutes.",5,Website,2026-11-04 09:00:00
+REV-1009,"The staff was rude and the manager ignored my complaint.",2,Facebook,2026-11-04 12:25:00
+REV-1010,"Average experience. The service was okay but nothing special.",3,Google,2026-11-04 17:50:00
+REV-1011,"I was overcharged on the bill and no one shared an invoice breakdown.",1,Google,2026-11-05 10:05:00
+REV-1012,"Great communication and a smooth handover. Highly recommend them.",5,LinkedIn,2026-11-05 13:15:00
+REV-1013,"Delivery was delayed by three hours and there was no update from the team.",1,Zomato,2026-11-05 19:30:00
+REV-1014,"The website payment page is stuck and my order is missing.",2,Website,2026-11-06 08:45:00
+REV-1015,"Clean facility and helpful staff. I am satisfied with the service.",4,Google,2026-11-06 11:20:00
+REV-1016,"Payment nahi mila, paise wapas nahi hue. Bahut nirash hua.",1,Instagram,2026-11-06 15:10:00
+REV-1017,"The appointment was rescheduled twice without any intimation.",2,Google,2026-11-07 09:35:00
+REV-1018,"Amazing work on our website. The team was professional and responsive.",5,LinkedIn,2026-11-07 12:00:00
+REV-1019,"The product arrived damaged and the packaging was dirty.",1,Google,2026-11-07 16:40:00
+REV-1020,"Customer support called back quickly and explained everything clearly.",5,Website,2026-11-08 10:25:00
+REV-1021,"The delivery partner called before arriving. Very smooth experience.",5,Google,2026-11-08 11:55:00
+REV-1022,"There was a severe delay in service and the staff did not apologize.",2,Facebook,2026-11-08 18:10:00
+REV-1023,"Badhiya service tha, team ne jaldi help kiya. Pasand aaya.",5,Google,2026-11-09 09:50:00
+REV-1024,"I had a safety concern with the product and need someone to contact me urgently.",1,Google,2026-11-09 13:05:00
+REV-1025,"The refund is still pending after seven days of follow-up.",1,Instagram,2026-11-09 17:30:00
+REV-1026,"Nice experience overall. The team was polite and the process was simple.",4,Google,2026-11-10 10:15:00
+REV-1027,"The login issue is still not fixed despite two tickets.",2,Website,2026-11-10 14:40:00
+REV-1028,"Support team was rude and hung up on my call.",1,Google,2026-11-10 18:25:00
+REV-1029,"Product quality was good but the delivery was slightly late.",3,Google,2026-11-11 09:10:00
+REV-1030,"They charged me twice for the same order and refused to clarify.",1,Google,2026-11-11 12:35:00
+REV-1031,"Highly professional team and very fast response to our queries.",5,LinkedIn,2026-11-11 16:50:00
+REV-1032,"The service was slow and I waited for almost an hour.",2,Facebook,2026-11-12 08:55:00
+REV-1033,"सेवा अच्छी थी, डिलीवरी समय पर हुई। धन्यवाद!",5,Google,2026-11-12 11:30:00
+REV-1034,"The billing team sent an incorrect invoice again.",2,Website,2026-11-12 15:45:00
+REV-1035,"I had to go to hospital after using the product. This is a serious safety issue.",1,Google,2026-11-12 19:20:00
+REV-1036,"Good product, reasonable price, and quick delivery.",4,Google,2026-11-13 10:05:00
+REV-1037,"The app is slow and the search feature does not work properly.",2,Website,2026-11-13 13:50:00
+REV-1038,"Team was helpful and resolved my complaint without any delay.",5,Google,2026-11-13 17:15:00
+REV-1039,"Order late tha, lekin support ne jaldi call karke issue solve kar diya.",4,Instagram,2026-11-14 09:40:00
+REV-1040,"Worst experience. The product was defective and customer support never replied.",1,Google,2026-11-14 14:30:00
+REV-1041,"The booking slot was changed without informing me and support was unhelpful.",2,Google,2026-11-14 18:05:00
+REV-1042,"Very satisfied with the quality and the overall service experience.",5,Google,2026-11-15 11:10:00
+REV-1043,"I want a refund. The service was not delivered as promised.",1,Instagram,2026-11-15 15:25:00
+REV-1044,"The delivery was on time and the packaging was neat.",4,Google,2026-11-15 17:55:00
+REV-1045,"Support took three days to respond and the answer was not useful.",2,Website,2026-11-16 10:00:00
